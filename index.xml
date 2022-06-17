@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hsuan Kevin Ho</title>
+    <link>https://kshyaya.github.io/</link>
+    <description>Recent content on Hsuan Kevin Ho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 16 Jun 2022 10:07:47 +0800</lastBuildDate><atom:link href="https://kshyaya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gateblocker</title>
+      <link>https://kshyaya.github.io/blog/porflio__gateblocker/</link>
+      <pubDate>Thu, 16 Jun 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://kshyaya.github.io/blog/porflio__gateblocker/</guid>
+      <description>Gateblocker是一個結合區塊鏈驗證技術的臉部辨識驗證系統。
+我的角色主要是設計串接臉部辨識api與區塊鏈中間的人事資料庫系統。
+ 系統架構 系統架構可以分為三個部分 : 分別是前端的臉部辨識、連接前後兩端的人事資料庫系統,以及做最終結果確認的區塊鏈私有鏈網路。
+人臉辨識以認知服務 Face API 為前端人臉辨識的主要架構,再根據本專題需求,調整為符合 Real-time 即時捕捉畫面的應用程式連結前端的人事資料庫。</description>
+    </item>
+    
+    <item>
+      <title>療音樂</title>
+      <link>https://kshyaya.github.io/blog/portfolio__music/</link>
+      <pubDate>Mon, 13 Jun 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://kshyaya.github.io/blog/portfolio__music/</guid>
+      <description>療音樂是一款多合一的應用程式，可以讓任何人計畫、組織和管理他們的壓力。
+ 療音樂是一款多合一的應用程式。該應用程式連結手機鏡頭與手電筒功能，用於測量自身心律狀態，並將結果以圖表方式紀錄。用戶可以在測量完畢後記錄並獲得可降低壓力的音樂。
+ 遊戲性 此外，為了增加使用者黏著度，特別設計遊戲畫機制，讓用戶藉由遊戲的機制，可以得到更客製化的體驗。
+該遊戲藉由每日任務獲得遊戲代幣，並將用代幣用於製作專屬客製化歌單，此歌單藉由用戶自行選擇的三個元素，來合成出適合自己風格的歌單，每個元素有分別對應的代幣需要消耗。
+ 採訪使用者 “平常有壓力的時候通常會想聽音樂，看YT，或是跟朋友聊天，但時常找不到適合自己舒壓的音樂”- 26歲，Mai，ux研究員</description>
+    </item>
+    
+  </channel>
+</rss>
